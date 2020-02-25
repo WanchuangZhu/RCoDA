@@ -29,5 +29,5 @@ Below introduces the functionality of different files.
 8. smalldecomsecondcover_array.m  : calculate the coverage probability.
 9. conschess.m : divide the Potts model into several blocks according to coding method.
 
-#Reference
+# Reference
 Zhu, W., & Fan, Y. (2018). A Novel Approach for Markov Random Field With Intractable Normalizing Constant on Large Lattices. Journal of Computational and Graphical Statistics, 27(1), 59-70.
