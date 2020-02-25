@@ -13,7 +13,7 @@ Below introduces the functionality of different files.
 7. RCoDAlike.m.   This is used to calculate the likelihood of Potts model according to our method. The method is referred as RCoDA.
 8. smalldecomcover_array.m  : calculate the coverage probability.
 
-## folder "Secondorder" is for the first order neighbourhood structure 
+## folder "Secondorder" is for the second order neighbourhood structure 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  below is instruction for folder "Secondorder"
 
 1. generatedata.m : generate data set for simulation study
