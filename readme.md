@@ -1,3 +1,7 @@
+# Aim
+Inference of the Potts model is always problematic due to the intractable normalizing constant in its likelihood function. This project proposed a novel method to solve the normalizing constant. 
+# Instruction
+## folder "firstorder" is for the first order neighbourhood structure 
 Below introduces the functionality of different files.
 1. generatedata.m : generate data set for simulation study
 2. decomnc.m   : This is the main file. Given the simulated data, MCMC is implemented. In this file, posterior samples are drawn using MCMC. 
@@ -9,6 +13,7 @@ Below introduces the functionality of different files.
 7. RCoDAlike.m.   This is used to calculate the likelihood of Potts model according to our method. The method is referred as RCoDA.
 8. smalldecomcover_array.m  : calculate the coverage probability.
 
+## folder "Secondorder" is for the first order neighbourhood structure 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  below is instruction for folder "Secondorder"
 
 1. generatedata.m : generate data set for simulation study
